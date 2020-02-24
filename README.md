@@ -1,5 +1,13 @@
 # HM Land Registry - Residential Property Price Paid Data
 ## England and Wales, 1995 to 2019
+There are 25 files, being one for each calendar year. 
+Each file has been zipped to minimise storage space. 
+There are no headers in the file, only data. 
+Header details are list below (in the order the columns appear in each file). 
+Columns are delimited by comma. 
+Text is delimited by double-quotes (ie. ", not two single-quotes). 
+Rows are delimited by CRLF. 
+
 
 |Data item|Explanation (where appropriate)|
 |---------|-------------------------------|
