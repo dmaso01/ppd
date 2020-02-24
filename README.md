@@ -1,2 +1,1 @@
-# ppd
-HM Land Registry Price Paid Data
+# HM Land Registry Price Paid Data
